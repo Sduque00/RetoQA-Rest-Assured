@@ -1,0 +1,10 @@
+co/com/sofka/runner/update/UpDateTestCucumber.java
+ co.com.sofka.runner.update.UpDateTestCucumber
+co/com/sofka/stepdefinition/setup/SetUp.java
+ co.com.sofka.stepdefinition.setup.SetUp
+co/com/sofka/runner/register/RegisterTestCucumber.java
+ co.com.sofka.runner.register.RegisterTestCucumber
+co/com/sofka/stepdefinition/register/RegisterStepDefinition.java
+ co.com.sofka.stepdefinition.register.RegisterStepDefinition
+co/com/sofka/stepdefinition/update/UpDateStepDefinition.java
+ co.com.sofka.stepdefinition.update.UpDateStepDefinition
